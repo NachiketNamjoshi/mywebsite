@@ -1,4 +1,5 @@
-# personal-website
+# mywebsite
+Source for my website https://nachiket.xyz
 
 ## Project setup
 ```
